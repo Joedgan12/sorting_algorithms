@@ -2,9 +2,9 @@
 #include "sort.h"
 
 /**
- * print_list - Prints a list of integers
+ * print_list - a list of integers printed
  *
- * @list: The list to be printed
+ * @list: list to be printed
  */
 void print_list(const listint_t *list)
 {
